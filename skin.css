@@ -1,11 +1,11 @@
 #player,#player a{ color:#0098ff; }
-#player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player{ background:url(https://github.com/MahiMahi99/SCM/blob/e2e8b2e4a18c20b7837ddd32b02486e1c36691cf/sizerAndVol.png); background-position:bottom; }
+#player .mainImage{ background:url(https://github.com/MahiMahi99/SCM/blob/e2e8b2e4a18c20b7837ddd32b02486e1c36691cf/main.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(https://github.com/MahiMahi99/SCM/blob/e2e8b2e4a18c20b7837ddd32b02486e1c36691cf/playBtn.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#0098ff; }
 
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:8px; background:url(https://github.com/MahiMahi99/SCM/blob/e2e8b2e4a18c20b7837ddd32b02486e1c36691cf/sizerAndVol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#0098ff; color:#0098ff; }
 #playlist h3{ background-color:#fff; }
